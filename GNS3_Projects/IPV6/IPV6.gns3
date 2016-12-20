@@ -51,10 +51,14 @@
             {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "link_id": "1bd49593-51b2-4a26-93cb-c0bd5f201a8e",
 =======
                 "link_id": "00f6c743-a097-4130-b5e3-d81c89330cd9",
 >>>>>>> origin/master
+=======
+                "link_id": "f25ab633-2179-491d-88dc-b6c956317e5a",
+>>>>>>> parent of 429677d... 12/19
 =======
                 "link_id": "f25ab633-2179-491d-88dc-b6c956317e5a",
 >>>>>>> parent of 429677d... 12/19
@@ -70,6 +74,7 @@
                             "y": 0
                         },
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
 =======
                             "text": "e2/0",
@@ -78,6 +83,9 @@
                         },
                         "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
 >>>>>>> origin/master
+=======
+                        "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
+>>>>>>> parent of 429677d... 12/19
 =======
                         "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
 >>>>>>> parent of 429677d... 12/19
@@ -91,6 +99,7 @@
                             "text": "e1/0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                             "x": -7,
                             "y": 22
                         },
@@ -101,6 +110,12 @@
                         },
                         "node_id": "2c56655e-3e48-40f5-abf4-9fe92f095452",
 >>>>>>> origin/master
+=======
+                            "x": 0,
+                            "y": 43
+                        },
+                        "node_id": "d1cb1867-cd86-474f-962f-c9fde35999bd",
+>>>>>>> parent of 429677d... 12/19
 =======
                             "x": 0,
                             "y": 43
@@ -143,7 +158,11 @@
             {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "link_id": "3ddc5c9a-df51-49e4-bfd0-14674d707599",
+=======
+                "link_id": "cba217fa-a7ae-478f-b01e-599aedc58631",
+>>>>>>> parent of 429677d... 12/19
 =======
                 "link_id": "cba217fa-a7ae-478f-b01e-599aedc58631",
 >>>>>>> parent of 429677d... 12/19
@@ -156,6 +175,7 @@
                             "text": "e1/0",
                             "x": 65,
                             "y": 44
+<<<<<<< HEAD
                         },
 <<<<<<< HEAD
                         "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
@@ -176,6 +196,10 @@
 =======
                         "node_id": "f4c0badd-1fdd-4d07-80d2-a6f75b0269d1",
 >>>>>>> parent of 429677d... 12/19
+=======
+                        },
+                        "node_id": "f4c0badd-1fdd-4d07-80d2-a6f75b0269d1",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     },
                     {
@@ -189,10 +213,14 @@
                         },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
 =======
                         "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
 >>>>>>> origin/master
+=======
+                        "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
+>>>>>>> parent of 429677d... 12/19
 =======
                         "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
 >>>>>>> parent of 429677d... 12/19
@@ -201,6 +229,7 @@
                 ]
             },
             {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "link_id": "78680140-cb72-4929-9f93-c88024ee84d2",
@@ -232,6 +261,18 @@
                             "x": 70,
                             "y": 34
 >>>>>>> parent of 429677d... 12/19
+=======
+                "link_id": "13af9433-92a0-4692-b442-5b3103ce8822",
+                "nodes": [
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e2/0",
+                            "x": 70,
+                            "y": 34
+>>>>>>> parent of 429677d... 12/19
                         },
                         "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
                         "port_number": 0
@@ -245,6 +286,7 @@
                             "x": -12,
                             "y": 11
                         },
+<<<<<<< HEAD
 <<<<<<< HEAD
                         "node_id": "2c56655e-3e48-40f5-abf4-9fe92f095452",
 =======
@@ -268,6 +310,9 @@
 =======
                         "node_id": "15ae71a5-d94a-4754-a388-2a20278178da",
 >>>>>>> parent of 429677d... 12/19
+=======
+                        "node_id": "15ae71a5-d94a-4754-a388-2a20278178da",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     }
                 ]
@@ -275,7 +320,11 @@
             {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "link_id": "d23d2944-fe84-41d2-b2b4-4746f91417c0",
+=======
+                "link_id": "3ddc5c9a-df51-49e4-bfd0-14674d707599",
+>>>>>>> parent of 429677d... 12/19
 =======
                 "link_id": "3ddc5c9a-df51-49e4-bfd0-14674d707599",
 >>>>>>> parent of 429677d... 12/19
@@ -289,6 +338,7 @@
                             "x": 73,
                             "y": 22
                         },
+<<<<<<< HEAD
 <<<<<<< HEAD
                         "node_id": "2653381a-39bb-4add-9fe6-50e46b7ab661",
 =======
@@ -308,6 +358,9 @@
 =======
                         "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
 >>>>>>> parent of 429677d... 12/19
+=======
+                        "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     },
                     {
@@ -315,6 +368,7 @@
                         "label": {
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                             "text": "e2/0",
@@ -336,6 +390,13 @@
                         },
                         "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
 >>>>>>> parent of 429677d... 12/19
+=======
+                            "text": "e1/0",
+                            "x": -7,
+                            "y": 22
+                        },
+                        "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     }
                 ]
@@ -343,7 +404,11 @@
             {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "link_id": "cba217fa-a7ae-478f-b01e-599aedc58631",
+=======
+                "link_id": "65e4333d-3fd3-4e08-9c7f-28e13f01bb79",
+>>>>>>> parent of 429677d... 12/19
 =======
                 "link_id": "65e4333d-3fd3-4e08-9c7f-28e13f01bb79",
 >>>>>>> parent of 429677d... 12/19
@@ -357,6 +422,7 @@
                             "x": 61,
                             "y": 50
                         },
+<<<<<<< HEAD
 <<<<<<< HEAD
                         "node_id": "f4c0badd-1fdd-4d07-80d2-a6f75b0269d1",
 =======
@@ -376,6 +442,9 @@
 =======
                         "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
 >>>>>>> parent of 429677d... 12/19
+=======
+                        "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     },
                     {
@@ -383,6 +452,7 @@
                         "label": {
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                             "text": "e2/0",
@@ -404,6 +474,13 @@
                         },
                         "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
 >>>>>>> parent of 429677d... 12/19
+=======
+                            "text": "e1/0",
+                            "x": 4,
+                            "y": -6
+                        },
+                        "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
+>>>>>>> parent of 429677d... 12/19
                         "port_number": 0
                     }
                 ]
@@ -411,10 +488,14 @@
             {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "link_id": "f25ab633-2179-491d-88dc-b6c956317e5a",
 =======
                 "link_id": "3ddc5c9a-df51-49e4-bfd0-14674d707599",
 >>>>>>> origin/master
+=======
+                "link_id": "1bd49593-51b2-4a26-93cb-c0bd5f201a8e",
+>>>>>>> parent of 429677d... 12/19
 =======
                 "link_id": "1bd49593-51b2-4a26-93cb-c0bd5f201a8e",
 >>>>>>> parent of 429677d... 12/19
@@ -430,6 +511,7 @@
                             "y": 22
                         },
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
 =======
                             "text": "e2/0",
@@ -438,6 +520,9 @@
                         },
                         "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
 >>>>>>> origin/master
+=======
+                        "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
+>>>>>>> parent of 429677d... 12/19
 =======
                         "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
 >>>>>>> parent of 429677d... 12/19
@@ -454,10 +539,14 @@
                         },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "node_id": "d1cb1867-cd86-474f-962f-c9fde35999bd",
 =======
                         "node_id": "a5ada200-3c55-4b05-8dcf-4fac592d14c4",
 >>>>>>> origin/master
+=======
+                        "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
+>>>>>>> parent of 429677d... 12/19
 =======
                         "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
 >>>>>>> parent of 429677d... 12/19
@@ -500,10 +589,14 @@
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "console": 5018,
 =======
                 "console": 5015,
 >>>>>>> origin/master
+=======
+                "console": 5020,
+>>>>>>> parent of 429677d... 12/19
 =======
                 "console": 5020,
 >>>>>>> parent of 429677d... 12/19
@@ -513,6 +606,7 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "Sw4",
@@ -537,6 +631,14 @@
                 "name": "Sw1",
                 "node_id": "f4c0badd-1fdd-4d07-80d2-a6f75b0269d1",
 >>>>>>> parent of 429677d... 12/19
+=======
+                    "text": "Sw1",
+                    "x": 15,
+                    "y": -25
+                },
+                "name": "Sw1",
+                "node_id": "f4c0badd-1fdd-4d07-80d2-a6f75b0269d1",
+>>>>>>> parent of 429677d... 12/19
                 "node_type": "qemu",
                 "port_name_format": "Gi0/{0}",
                 "port_segment_size": 0,
@@ -570,10 +672,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:78:da:00",
 =======
                     "mac_address": "00:92:0a:a6:9e:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:69:d1:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:69:d1:00",
 >>>>>>> parent of 429677d... 12/19
@@ -585,6 +691,7 @@
                     "usage": "There is no default password and enable password. There is no default configuration present."
                 },
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "width": 51,
 <<<<<<< HEAD
@@ -595,15 +702,21 @@
                 "y": -248,
 >>>>>>> origin/master
 =======
+=======
+>>>>>>> parent of 429677d... 12/19
                 "symbol": ":/symbols/router.svg",
                 "width": 66,
                 "x": -556,
                 "y": -252,
+<<<<<<< HEAD
+>>>>>>> parent of 429677d... 12/19
+=======
 >>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "console": 5020,
@@ -613,12 +726,16 @@
 =======
                 "console": 5010,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "console": 5010,
+>>>>>>> parent of 429677d... 12/19
                 "console_type": "telnet",
                 "first_port_name": "",
                 "height": 45,
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "Sw1",
@@ -643,6 +760,14 @@
                 "name": "R4",
                 "node_id": "2c56655e-3e48-40f5-abf4-9fe92f095452",
 >>>>>>> parent of 429677d... 12/19
+=======
+                    "text": "R4",
+                    "x": 20,
+                    "y": -25
+                },
+                "name": "R4",
+                "node_id": "2c56655e-3e48-40f5-abf4-9fe92f095452",
+>>>>>>> parent of 429677d... 12/19
                 "node_type": "qemu",
                 "port_name_format": "Gi0/{0}",
                 "port_segment_size": 0,
@@ -676,10 +801,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:69:d1:00",
 =======
                     "mac_address": "00:92:0a:50:4a:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:54:52:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:54:52:00",
 >>>>>>> parent of 429677d... 12/19
@@ -694,6 +823,7 @@
                 "width": 66,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": -556,
                 "y": -252,
 =======
@@ -704,10 +834,15 @@
                 "x": 267,
                 "y": -247,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "x": 267,
+                "y": -247,
+>>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "console": 5016,
@@ -717,12 +852,16 @@
 =======
                 "console": 5001,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "console": 5001,
+>>>>>>> parent of 429677d... 12/19
                 "console_type": "telnet",
                 "first_port_name": "",
                 "height": 45,
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "R6",
@@ -739,6 +878,14 @@
                 "name": "R4",
                 "node_id": "2c56655e-3e48-40f5-abf4-9fe92f095452",
 >>>>>>> origin/master
+=======
+                    "text": "Sw2",
+                    "x": 15,
+                    "y": -25
+                },
+                "name": "Sw2",
+                "node_id": "fae38bad-b9ce-4dca-8a0e-2724c03bf2ef",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "Sw2",
                     "x": 15,
@@ -780,10 +927,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:99:bd:00",
 =======
                     "mac_address": "00:92:0a:54:52:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:f2:ef:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:f2:ef:00",
 >>>>>>> parent of 429677d... 12/19
@@ -798,6 +949,7 @@
                 "width": 66,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": 492,
                 "y": -97,
 =======
@@ -808,10 +960,15 @@
                 "x": 478,
                 "y": -310,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "x": 478,
+                "y": -310,
+>>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "console": 5008,
@@ -821,12 +978,16 @@
 =======
                 "console": 5006,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "console": 5006,
+>>>>>>> parent of 429677d... 12/19
                 "console_type": "telnet",
                 "first_port_name": "",
                 "height": 45,
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "R1",
@@ -843,6 +1004,14 @@
                 "name": "R6",
                 "node_id": "d1cb1867-cd86-474f-962f-c9fde35999bd",
 >>>>>>> origin/master
+=======
+                    "text": "R2",
+                    "x": 20,
+                    "y": -25
+                },
+                "name": "R2",
+                "node_id": "cc6aa595-89b5-455f-81e2-704eb9a4504a",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "R2",
                     "x": 20,
@@ -884,10 +1053,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:f2:79:00",
 =======
                     "mac_address": "00:92:0a:99:bd:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:50:4a:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:50:4a:00",
 >>>>>>> parent of 429677d... 12/19
@@ -902,7 +1075,11 @@
                 "width": 66,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": -333,
+=======
+                "x": -108,
+>>>>>>> parent of 429677d... 12/19
 =======
                 "x": -108,
 >>>>>>> parent of 429677d... 12/19
@@ -917,10 +1094,14 @@
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "console": 5013,
 =======
                 "console": 5014,
 >>>>>>> origin/master
+=======
+                "console": 5008,
+>>>>>>> parent of 429677d... 12/19
 =======
                 "console": 5008,
 >>>>>>> parent of 429677d... 12/19
@@ -930,6 +1111,7 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "R5",
@@ -946,6 +1128,14 @@
                 "name": "Sw2",
                 "node_id": "31b9daf3-f527-41d8-83f3-0478cd60dd51",
 >>>>>>> origin/master
+=======
+                    "text": "R1",
+                    "x": 20,
+                    "y": -25
+                },
+                "name": "R1",
+                "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "R1",
                     "x": 20,
@@ -987,10 +1177,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:8d:d7:00",
 =======
                     "mac_address": "00:92:0a:dd:51:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:f2:79:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:f2:79:00",
 >>>>>>> parent of 429677d... 12/19
@@ -1005,6 +1199,7 @@
                 "symbol": ":/symbols/router.svg",
                 "width": 66,
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": 267,
                 "y": 53,
 =======
@@ -1017,10 +1212,15 @@
                 "x": -333,
                 "y": -97,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "x": -333,
+                "y": -97,
+>>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "console": 5014,
@@ -1030,12 +1230,16 @@
 =======
                 "console": 5018,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "console": 5018,
+>>>>>>> parent of 429677d... 12/19
                 "console_type": "telnet",
                 "first_port_name": "",
                 "height": 48,
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "R3",
@@ -1052,6 +1256,14 @@
                 "name": "R5",
                 "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
 >>>>>>> origin/master
+=======
+                    "text": "Sw4",
+                    "x": 8,
+                    "y": -25
+                },
+                "name": "Sw4",
+                "node_id": "15ae71a5-d94a-4754-a388-2a20278178da",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "Sw4",
                     "x": 8,
@@ -1093,10 +1305,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:14:c4:00",
 =======
                     "mac_address": "00:92:0a:8d:d7:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:78:da:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:78:da:00",
 >>>>>>> parent of 429677d... 12/19
@@ -1108,6 +1324,7 @@
                     "usage": "There is no default password and enable password. There is no default configuration present."
                 },
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "symbol": ":/symbols/router.svg",
                 "width": 66,
 <<<<<<< HEAD
@@ -1118,10 +1335,15 @@
                 "y": 53,
 >>>>>>> origin/master
 =======
+=======
+>>>>>>> parent of 429677d... 12/19
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "width": 51,
                 "x": 501,
                 "y": 126,
+<<<<<<< HEAD
+>>>>>>> parent of 429677d... 12/19
+=======
 >>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
@@ -1189,10 +1411,14 @@
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "console": 5002,
 =======
                 "console": 5007,
 >>>>>>> origin/master
+=======
+                "console": 5013,
+>>>>>>> parent of 429677d... 12/19
 =======
                 "console": 5013,
 >>>>>>> parent of 429677d... 12/19
@@ -1202,6 +1428,7 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "Sw2",
@@ -1218,6 +1445,14 @@
                 "name": "R1",
                 "node_id": "d15bb5bc-b055-41dc-880c-c875918cf279",
 >>>>>>> origin/master
+=======
+                    "text": "R5",
+                    "x": 20,
+                    "y": -25
+                },
+                "name": "R5",
+                "node_id": "26e58343-3104-46a7-bb77-9a1486188dd7",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "R5",
                     "x": 20,
@@ -1259,10 +1494,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:f2:ef:00",
 =======
                     "mac_address": "00:92:0a:f2:79:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:8d:d7:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:8d:d7:00",
 >>>>>>> parent of 429677d... 12/19
@@ -1277,6 +1516,7 @@
                 "width": 66,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": 478,
                 "y": -310,
 =======
@@ -1287,10 +1527,15 @@
                 "x": 267,
                 "y": 53,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "x": 267,
+                "y": 53,
+>>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 "console": 5010,
@@ -1300,12 +1545,16 @@
 =======
                 "console": 5016,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "console": 5016,
+>>>>>>> parent of 429677d... 12/19
                 "console_type": "telnet",
                 "first_port_name": "",
                 "height": 48,
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "text": "R4",
@@ -1322,6 +1571,14 @@
                 "name": "Sw4",
                 "node_id": "15ae71a5-d94a-4754-a388-2a20278178da",
 >>>>>>> origin/master
+=======
+                    "text": "R6",
+                    "x": 20,
+                    "y": -25
+                },
+                "name": "R6",
+                "node_id": "d1cb1867-cd86-474f-962f-c9fde35999bd",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "text": "R6",
                     "x": 20,
@@ -1363,10 +1620,14 @@
                     "linked_clone": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "mac_address": "00:92:0a:54:52:00",
 =======
                     "mac_address": "00:92:0a:78:da:00",
 >>>>>>> origin/master
+=======
+                    "mac_address": "00:92:0a:99:bd:00",
+>>>>>>> parent of 429677d... 12/19
 =======
                     "mac_address": "00:92:0a:99:bd:00",
 >>>>>>> parent of 429677d... 12/19
@@ -1381,6 +1642,7 @@
                 "symbol": ":/symbols/router.svg",
                 "width": 66,
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "x": 267,
                 "y": -247,
 =======
@@ -1393,16 +1655,24 @@
                 "x": 492,
                 "y": -97,
 >>>>>>> parent of 429677d... 12/19
+=======
+                "x": 492,
+                "y": -97,
+>>>>>>> parent of 429677d... 12/19
                 "z": 1
             },
             {
                 "compute_id": "779995e6-b783-4b2f-83a6-a7cf433aab31",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "console": 5017,
 =======
                 "console": 5011,
 >>>>>>> origin/master
+=======
+                "console": 5012,
+>>>>>>> parent of 429677d... 12/19
 =======
                 "console": 5012,
 >>>>>>> parent of 429677d... 12/19
